@@ -1,0 +1,4 @@
+ChessSolver
+===========
+
+Chess solver
